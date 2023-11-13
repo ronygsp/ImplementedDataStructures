@@ -1,1 +1,2 @@
 # ImplementedDataStructures
+An implementation of the most important data structures from the ground up to understand how each of them work logically as well as their practical applications. This repository aims to provide clear, well-commented code for a variety of data structures, aiding in comprehending their inner workings and demonstrating how they can be utilized in different scenarios. Through this collection, you'll explore the fundamental principles behind structures like arrays, linked lists, stacks, queues, trees, heaps, graphs, and more. 
